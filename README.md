@@ -1,3 +1,4 @@
 # game
 The game is all in the github releases
-[https://github.com/ITlikecoding/game/releases](Watch it here!)
+Click the link below
+https://github.com/ITlikecoding/game/releases
